@@ -1,0 +1,3 @@
+Név: Rácz László
+Szak: Programtervező informatikus
+Neptunkód: CI880V
